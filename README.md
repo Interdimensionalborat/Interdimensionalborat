@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Interdimensional Borat
 - 👀 I’m interested in coding, system administration, cybersecurity, linux, and much more
-- 🌱 I’m currently learning networking, python, and network administration
+- 🌱 I’m currently learning networking, python, and html
 - 💞️ I’m looking to collaborate on anything interesting! 
 - 📫 How to reach me check my profile!
 
